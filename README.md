@@ -1,3 +1,7 @@
+A simple NextJs app, made along with MongoDB Online API, where you can enter new meetups and look for details.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
